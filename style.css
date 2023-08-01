@@ -55,7 +55,7 @@
 
 .content::after {
     content: "";
-    background-image: url("/img/453_generated.jpg");
+    background-image: url("453_generated.jpg");
     position: absolute;
     width: 100%;
     height: inherit;
